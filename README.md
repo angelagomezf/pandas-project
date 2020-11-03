@@ -1,2 +1,2 @@
-# pandas-project
+# Pandas project
 project-2
