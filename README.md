@@ -4,7 +4,7 @@
 
 ## First things first: Importing the data
 I encountered a few problems when importing the data from the dataset we were given to.
-I solved it seeking help from the same webpage were the dataset it from: https://www.kaggle.com/paultimothymooney/how-to-resolve-a-unicodedecodeerror-for-a-csv-file
+I solved it seeking help from the same webpage were the dataset is from: https://www.kaggle.com/paultimothymooney/how-to-resolve-a-unicodedecodeerror-for-a-csv-file
 To do so, I had to download the library "chardet" in the Terminal:
 
 ```bash
