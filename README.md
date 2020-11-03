@@ -12,7 +12,7 @@ pip3 install chardet
 ```
 
 ## Exploring
-I started exploring the dataset given to us in order to start the following step, and I might even say, most important part of this project: cleaning.
+I started exploring the dataset given to us in order to start the following step, and if I might even say, the most important part of this project: **data cleaning**.
 
 ## Data Cleaning
 Oh man, this has been a challenge. My main worry was to keep as many information as possible, but without keeping too many empty values (NaN). I spent most of my time figuring out how to do this.
